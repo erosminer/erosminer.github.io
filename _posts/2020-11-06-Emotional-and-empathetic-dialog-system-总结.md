@@ -55,8 +55,6 @@ Towards an Artificially Empathic Conversational Agent for Mental Health Applicat
 
 ⭐(√）Towards Empathetic Open-domain Conversation Models: A New Benchmark and Dataset (ACL 2019)
 
-EmpTransfo: A Multi-head Transformer Architecture for Creating Empathetic Dialog Systems (arxiv 2020)
-
 CAiRE: An Empathetic Neural Chatbot (AAAI 2020)
 
 (√）EmpGAN: Multi-resolution Interactive Empathetic Dialogue Generation (AAAI 2020)
@@ -65,7 +63,7 @@ The design and implementation of xiaoice, an empathetic social chatbot (Computat
 
 🌙(√）Towards Persona-Based Empathetic Conversational Models (EMNLP 2020)
 
-MIME: MIMicking Emotions for Empathetic Response Generation (EMNLP 2020)
+(√）MIME: MIMicking Emotions for Empathetic Response Generation (EMNLP 2020)
 
 EmoElicitor: An Open Domain Response Generation Model with User Emotional Reaction Awareness (IJCAI 2020)
 
@@ -74,6 +72,8 @@ EmoElicitor: An Open Domain Response Generation Model with User Emotional Reacti
 A survey on empathetic dialogue systems (Information Fusion 2020)
 
 Empathetic Dialogue Generation via Knowledge Enhancing and Emotion Dependency Modeling (arxiv 2020)
+
+EmpTransfo: A Multi-head Transformer Architecture for Creating Empathetic Dialog Systems (arxiv 2020)
 
 
 
